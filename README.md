@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinanazem/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sinanaazem@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/sina.nazem/)](https://www.instagram.com/sina.nazem)
-[![Github](https://img.shields.io/github/followers/naazem?label=Follow&style=social)](https://github.com/naazem)
+[![Github](https://img.shields.io/github/followers/sinanazem?label=Follow&style=social)](https://github.com/sinanazem)
 
 
 <div>
