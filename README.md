@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👋, I'm Sina Nazem</h1>
-<!-- <h3 align="center">A CSE postgraduate student, an aspiring MERN stack developer, excited to build, develop, and create . Currently working on Frontend development . I’m passionate about learning new technologies.</h3> -->
+<h3 align="center">2nd-year bachelor student . Interested in machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinanazem" alt="sinanazem" /> </p>
 
