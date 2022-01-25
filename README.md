@@ -14,8 +14,8 @@
 - 📫 Reach me at **sinanaazem@gmail.com**
 
 <!-- - 🖊️ Read my technical blogs <a href="https://nanu02d8.medium.com/" target="_blank">here</a>  on Medium.com -->
-
-- ⚡ Fun fact **When I'm stressed, nothing helps me more than singing 🎤.**
+<!-- 
+- ⚡ Fun fact **When I'm stressed, nothing helps me more than singing 🎤.** -->
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
