@@ -1,6 +1,11 @@
 <h1 align="center">
   <b>Sina Nazem</b>
+  
 </h1>
+<br>
+🌱 I’m currently learning machine learning
+<br>
+👯 I’m looking to collaborate on Python based projects
 <br>
 
 <p>
