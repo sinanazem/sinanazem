@@ -16,8 +16,8 @@ class SinaNazem():
   def __init__(self):
     self.name = "Sina Nazem";
     self.username = "sinanazem";
-    self.location = "Tehran, Iran";
-    self.web = "https://sinanazem.dev";
+    self.location = "Isfahan, Iran";
+    self.web = "https://sinanazem.com";
   
   def __str__(self):
     return self.name
