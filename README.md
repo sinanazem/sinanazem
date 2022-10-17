@@ -16,7 +16,7 @@ class SinaNazem():
   def __init__(self):
     self.name = "Sina Nazem";
     self.username = "sinanazem";
-    self.location = "Isfahan, Iran";
+    self.location = "Tehran, Iran";
     self.web = "https://sinanazem.com";
   
   def __str__(self):
@@ -60,4 +60,5 @@ if __name__ == '__main__':
 [![Sina Nazem' Activity Graph](https://activity-graph.herokuapp.com/graph?username=sinanazem&custom_title=Sina%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://sinanazem.dev)
 
 <br>
+
 
