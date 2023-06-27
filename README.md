@@ -57,7 +57,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Sina Nazem' Activity Graph](https://activity-graph.herokuapp.com/graph?username=sinanazem&custom_title=Sina%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://sinanazem.dev)
+
 
 <br>
 
