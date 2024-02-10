@@ -40,8 +40,11 @@ if __name__ == '__main__':
 
 <br>
 
-## My Statistics
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My Statistics</h2></summary>
+  </ul>
+</div>
 <br/>
 <p align="left">
   <a href="https://sinanazem.dev/">
