@@ -34,7 +34,7 @@ if __name__ == '__main__':
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,elasticsearch,django,flask,nginx,postgres,redis,selenium,kubernetes,tensorflow,pytorch,scala,gitlab,anaconda,aws,bootstrap,cpp,cs,css,docker,github,html,linux,mongodb,mysql,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker,elasticsearch,django,flask,nginx,postgres,redis,selenium,kubernetes,tensorflow,pytorch,scala,gitlab,anaconda,aws,bootstrap,cpp,cs,css,docker,github,html,linux,mongodb,postman,py,vscode&perline=14" />
   </a>
 </p>
 
