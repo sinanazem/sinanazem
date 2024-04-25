@@ -2,10 +2,10 @@
   <b>Sina Nazem</b>
   
 </h1>
-<br>
+<!-- <br>
 🌱 I’m currently learning machine learning
 <br>
-👯 I’m looking to collaborate on Python based projects
+👯 I’m looking to collaborate on Python based projects -->
 <br>
 <br>
 <br>
