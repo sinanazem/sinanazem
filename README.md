@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Sina Nazem</b>
+  <b>SinaZem</b>
   
 </h1>
 <br>
